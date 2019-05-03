@@ -6,5 +6,4 @@ An internet browser calculator that shows monthly payments for a loan and given 
 
 ## Instructions
 * Type or increment/decrement the loan amount, interest percentage, and years to repay fields and then press the calculate results button to show the results.    
-  * Items added will be stored in the task box below.
 * Results will display a monthly payment amount, total payment amount, and total interest paid.
